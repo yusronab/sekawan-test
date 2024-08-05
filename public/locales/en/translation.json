@@ -1,0 +1,40 @@
+{
+    "navigation": {
+        "overview": "Overview",
+        "ticket": "Ticket",
+        "ideas": "Ideas",
+        "contacts": "Contacts",
+        "agents": "Agents",
+        "articles": "Articles"
+    },
+    "unresolved": "Unresolved",
+    "resolved": "Resolved",
+    "recieved": "Recieved",
+    "overdue": "Overdue",
+    "open": "Open",
+    "hold": "On Hold",
+    "chartTitle": "Today's trends",
+    "firstResponse": "Average first response time",
+    "response": "Average response time",
+    "resolution": "Resolution with SLA",
+    "homeCard2title": "Unresolved tickets",
+    "homeCard2cta": "View details",
+    "homeCard3title": "Tasks",
+    "homeCard3cta": "View all",
+    "ticket": {
+        "header": "All Tickets",
+        "sort": "Sort",
+        "sort1": "Sort by Name Asc",
+        "sort2": "Sort by Name Desc",
+        "filter": "Filter",
+        "filter1": "HIGH Priority",
+        "filter2": "NORMAL Priority",
+        "filter3": "LOW Priority",
+        "filter4": "Clear Filter",
+        "row1": "Ticket details",
+        "row2": "Customer name",
+        "row3": "Date",
+        "row4": "Priority",
+        "rpp": "Rows per page"
+    }
+}

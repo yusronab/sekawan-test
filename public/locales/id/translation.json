@@ -1,0 +1,40 @@
+{
+    "navigation": {
+        "overview": "Ikhtisar",
+        "ticket": "Tiket",
+        "ideas": "Ide",
+        "contacts": "Kontak",
+        "agents": "Agen",
+        "articles": "Artikel"
+    },
+    "unresolved": "Belum Selesai",
+    "resolved": "Selesai",
+    "recieved": "Diterima",
+    "overdue": "Terlambat",
+    "open": "Buka",
+    "hold": "Ditahan",
+    "chartTitle": "Tren hari ini",
+    "firstResponse": "Waktu tanggapan pertama rata-rata",
+    "response": "Waktu tanggapan rata-rata",
+    "resolution": "Penyelesaian dengan SLA",
+    "homeCard2title": "Tiket yang belum selesai",
+    "homeCard2cta": "Lihat detail",
+    "homeCard3title": "Tugas",
+    "homeCard3cta": "Lihat semua",
+    "ticket": {
+        "header": "Semua Tiket",
+        "sort": "Urutkan",
+        "sort1": "Berdasarkan Nama Asc",
+        "sort2": "Berdasarkan Nama Desc",
+        "filter": "Saring",
+        "filter1": "Prioritas HIGH",
+        "filter2": "Prioritas NORMAL",
+        "filter3": "Prioritas LOW",
+        "filter4": "Bersihkan",
+        "row1": "Detail tiket",
+        "row2": "Nama pelanggan",
+        "row3": "Tanggal",
+        "row4": "Prioritas",
+        "rpp": "Baris tiap halaman"
+    }
+}
